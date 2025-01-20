@@ -10,13 +10,7 @@
 .display-flex{
     display: flex;
 }
-.school-name{
-    font-size: 45px;
-    font-weight: bolder;
-    color: red;
-    text-align: center;
-    border: 2px dashed grey;
-    }
+
 /* nav-bar related styles */
 .nav-item{
     list-style: none;
@@ -63,4 +57,16 @@
     color: blue;
     font-size: 15px;
     font-weight: bold;
+}
+
+/* banner section start */
+.banner {
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-left: 220px;
+    margin-right: 220px;
+    padding: 22px;
+}
+.banner-info{
+    margin-top: 140px;
 }
