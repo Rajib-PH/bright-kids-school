@@ -63,7 +63,7 @@
 .banner {
     justify-content: space-between;
     margin-top: 30px;
-    margin-left: 220px;
+    margin-left: 200px;
     margin-right: 220px;
     padding: 22px;
 }
@@ -99,4 +99,11 @@
     font-size: 36px;
     font-weight: bold;
     color: #01ACFD;
+}
+#banner-pic{
+    width: 350px;
+    height:450px;
+    margin-right: 100px;
+    margin-top: 40px;
+    margin-left: 10px;
 }
