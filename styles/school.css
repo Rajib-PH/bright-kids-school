@@ -28,7 +28,7 @@
     border-radius: 8px;
     box-shadow: none;
     border-style: hidden;
-    font-size: 14px;
+    font-size: 12px;
     font-weight: bold;
     color: aliceblue;
     padding: 9px 40px;  
@@ -69,4 +69,34 @@
 }
 .banner-info{
     margin-top: 140px;
+}
+#banner-btn{
+    background-color: black;
+    border-radius: 8px;
+    box-shadow: none;
+    border-style: hidden;
+    font-size: 12px;
+    font-weight: bold;
+    color: aliceblue;
+    padding: 9px 40px;  
+}
+#empower{
+    font-size: 36px;
+    font-weight: bold;
+    color: #FEA301;
+}
+#small{
+    font-size: 36px;
+    font-weight: bold;
+    color: black;
+}
+#age{
+    font-size: 36px;
+    font-weight: bold;
+    color: black;
+}
+#vision{
+    font-size: 36px;
+    font-weight: bold;
+    color: #01ACFD;
 }
