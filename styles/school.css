@@ -10,7 +10,13 @@
 .display-flex{
     display: flex;
 }
-
+.school-name{
+    font-size: 45px;
+    font-weight: bolder;
+    color: red;
+    text-align: center;
+    border: 2px dashed grey;
+    }
 /* nav-bar related styles */
 .nav-item{
     list-style: none;
@@ -21,7 +27,6 @@
 }
 .nav-bar{
     justify-content: space-evenly;
-    margin-top: 25px;
     align-items: center;
 }
 .nav-btn{
