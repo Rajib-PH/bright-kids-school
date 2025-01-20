@@ -21,9 +21,8 @@
 }
 .nav-bar{
     justify-content: space-evenly;
-    margin-top: 0 auto;
+    margin-top: 25px;
     align-items: center;
-
 }
 .nav-btn{
     background-color: #FEA301;
@@ -35,9 +34,28 @@
     color: aliceblue;
     padding: 9px 40px;  
 }
-
 .nav-title{
     font-weight:bold ;
     font-size: 19px;
     color: black;
+}
+#link-one{
+    color: #FEA301;
+    font-size: 15px;
+    font-weight: bold;
+}
+#link-two{
+    color: #01ACFD;
+    font-size: 15px;
+    font-weight: bold;
+}
+#link-three{
+    color: green;
+    font-size: 15px;
+    font-weight: bold;
+}
+#link-four{
+    color: blue;
+    font-size: 15px;
+    font-weight: bold;
 }
