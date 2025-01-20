@@ -10,6 +10,8 @@
 .display-flex{
     display: flex;
 }
+
+/* nav-bar related styles */
 .nav-item{
     list-style: none;
     padding: 25px;
@@ -19,6 +21,9 @@
 }
 .nav-bar{
     justify-content: space-evenly;
+    margin-top: 0 auto;
+    align-items: center;
+
 }
 .nav-btn{
     background-color: #FEA301;
@@ -26,8 +31,13 @@
     box-shadow: none;
     border-style: hidden;
     font-size: 14px;
-    font-weight: 500;
+    font-weight: bold;
     color: aliceblue;
-    padding: 5px;
-    
+    padding: 9px 40px;  
+}
+
+.nav-title{
+    font-weight:bold ;
+    font-size: 19px;
+    color: black;
 }
