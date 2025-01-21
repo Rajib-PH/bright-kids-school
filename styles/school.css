@@ -107,3 +107,10 @@
     margin-top: 40px;
     margin-left: 10px;
 }
+
+/* Responsive Media Query */
+/* @media screen and (max-width:576px) {
+    .nav-bar, .nav-links{
+        flex-direction: column;
+    } 
+} */
