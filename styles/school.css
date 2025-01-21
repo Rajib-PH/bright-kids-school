@@ -137,7 +137,7 @@
 }
 .age-kinder{
     background-color: #DEF5FF;
-    padding: 70px;
+    padding: 50px;
 }
 #kinder-btn{
     font-size: 10px;
@@ -145,6 +145,17 @@
     color: blue;
     border: none;
     background-color: #DEF5FF;
+}
+.age-elementary{
+    background-color: #FFF4DC;
+    padding: 50px;
+}
+#elementary-btn{
+    font-size: 10px;
+    font-weight: bold;
+    color: tomato;
+    border: none;
+    background-color: #FFF4DC;
 }
 
 /* Story Related Styles */
