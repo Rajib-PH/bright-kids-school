@@ -108,6 +108,18 @@
     margin-left: 10px;
 }
 
+/* Footer Related Styles */
+.menu-tiltle{
+    list-style: none;
+}
+.menu-link{
+    text-decoration: none;
+}
+.footer-menu-pic{
+    list-style: none;
+   margin-right: 10px;
+}
+
 /* Responsive Media Query */
 /* @media screen and (max-width:576px) {
     .nav-bar, .nav-links{
