@@ -110,11 +110,9 @@
 
 /* curriculum related styles */
 .curri-bg{
-    margin-top: 20px;
-    margin-left: 200px;
-    margin-right: 200px;
-    border: 0.50px solid gray;
-    }
+    background-image: url(../assets/bg.png);
+    background-repeat: no-repeat;
+      }
 #curri-title {
     font-size: 30px;
     font-weight: bold;
@@ -124,20 +122,18 @@
 .age-cat {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
-    
-}
+    margin-right: 200px;
+    margin-left: 200px;
+    }
 .age {
-    border: 1px solid grey;
-    border-radius: 10px;
-    width: 360px;
-    height: 470px;
     align-content: center;
     text-align: center;
-}
+    }
 .age-kinder{
     background-color: #DEF5FF;
-    padding: 50px;
+    width: 250px;
+    height: 300px;
+    padding: 25px 25px;
 }
 #kinder-btn{
     font-size: 10px;
@@ -148,7 +144,9 @@
 }
 .age-elementary{
     background-color: #FFF4DC;
-    padding: 50px;
+    width: 250px;
+    height: 300px;
+    padding: 25px 25px;
 }
 #elementary-btn{
     font-size: 10px;
@@ -156,6 +154,19 @@
     color: tomato;
     border: none;
     background-color: #FFF4DC;
+}
+.age-middle{
+    background-color: #F2E8FF;
+    width: 250px;
+    height: 300px;
+    padding: 25px 25px;
+}
+#middle-btn{
+    font-size: 10px;
+    font-weight: bold;
+    color: violet;
+    border: none;
+    background-color: #F2E8FF ;
 }
 
 /* Story Related Styles */
