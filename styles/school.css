@@ -109,10 +109,25 @@
 }
 
 /* Story Related Styles */
+.story-bg{
+    background-color: rgba(254, 163, 1, 0.3);
+    /* width: 1500px;
+    height: 1500px;
+    margin: 100px; */
+}
 .story-title{
     font-size: 30px;
     font-weight: bold;
     text-align: center;
+}
+.story-pic{
+    gap: 15px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#single-pic{
+    /* width: 100px;
+    height: 200px; */
 }
 .story-btn{
     background-color: black;
