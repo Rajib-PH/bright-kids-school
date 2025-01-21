@@ -110,9 +110,20 @@
 
 /* Footer Related Styles */
 .footer-bg{
+    margin-top: 45px;
     background-color: #01ACFD;
     color: aliceblue;
+    padding-left: 100px;
+    justify-content: space-between;
+    align-content: center;
 }
+.footer-info-pic{
+    height: 55px;
+    width: 55px;
+    box-shadow: none;
+    border-style: hidden;
+}
+
 .menu-tiltle{
     list-style: none;
 }
@@ -120,9 +131,19 @@
     text-decoration: none;
     color: aliceblue;
 }
+#keep{
+    margin-left: 40px;
+    }
+#about{
+    margin-left: 40px;
+}
 .footer-menu-pic{
     list-style: none;
-   margin-right: 10px;
+    margin-right: 10px;
+    }
+.pic-item{
+    height: 20px;
+    width: 20px;
 }
 
 /* Responsive Media Query */
