@@ -120,11 +120,10 @@
     padding-bottom: 50px;
 }
 .footer-info-pic{
-    height: 55px;
+    height: 60px;
     width: 55px;
-    box-shadow: none;
-    border-style: hidden;
-}
+    margin-top: 25px;
+    }
 .menu-title{
     list-style: none;
     margin-bottom: 20px;
@@ -141,6 +140,10 @@
 #about{
     margin-left: 40px;
     font-size: 20px;
+    font-weight: bold;
+}
+#edu{
+    font-size: 27px;
     font-weight: bold;
 }
 .footer-menu-pic{
