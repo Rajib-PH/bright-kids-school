@@ -111,15 +111,16 @@
 /* Story Related Styles */
 .story-bg{
     background-color: rgba(254, 163, 1, 0.3);
-    /* width: 1500px;
-    height: 1500px;
-    margin: 100px; */
+    margin-top: 50px;
+    border: none;
+    
 }
 .story-title{
     font-size: 30px;
     font-weight: bold;
     text-align: center;
-}
+    /* margin-bottom: 500px; */
+    }
 .story-pic{
     gap: 15px;
     margin-left: 100px;
