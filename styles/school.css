@@ -109,11 +109,16 @@
 }
 
 /* Footer Related Styles */
+.footer-bg{
+    background-color: #01ACFD;
+    color: aliceblue;
+}
 .menu-tiltle{
     list-style: none;
 }
 .menu-link{
     text-decoration: none;
+    color: aliceblue;
 }
 .footer-menu-pic{
     list-style: none;
