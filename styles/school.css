@@ -119,7 +119,7 @@
     font-size: 30px;
     font-weight: bold;
     text-align: center;
-    margin-bottom: 90px;
+    /* margin-bottom: 60px; */
 }
 .age-cat {
     display: grid;
@@ -128,12 +128,23 @@
     
 }
 .age {
-    border: 1px solid palevioletred;
+    border: 1px solid grey;
     border-radius: 10px;
     width: 360px;
     height: 470px;
     align-content: center;
     text-align: center;
+}
+.age-kinder{
+    background-color: #DEF5FF;
+    padding: 70px;
+}
+#kinder-btn{
+    font-size: 10px;
+    font-weight: bold;
+    color: blue;
+    border: none;
+    background-color: #DEF5FF;
 }
 
 /* Story Related Styles */
