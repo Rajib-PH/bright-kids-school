@@ -183,9 +183,11 @@
 
 /* Story Related Styles */
 .story-bg{
+    background-image: url(../assets/bg.png);
+    background-repeat: no-repeat;
     background-color: rgba(254, 163, 1, 0.3);
-    margin-top: 50px;
-    border: none;
+    /* margin-top: 50px;
+    border: none; */
     
 }
 .story-title{
@@ -193,7 +195,8 @@
     font-weight: bold;
     text-align: center;
     }
-.story-pic{
+    
+/* .story-pic{
     gap: 15px;
     margin-left: 100px;
     margin-right: 100px;
@@ -217,7 +220,7 @@
     color: aliceblue;
     padding: 9px 40px;  
     margin-left: 710px;
-}
+} */
     
 
 /* Footer Related Styles */
