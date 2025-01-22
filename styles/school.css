@@ -311,4 +311,15 @@
     .banner-btn{
         margin-right: 120px;
     }
+    .age-cat{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 17px;
+        margin-left: 45px;
+            }
+    #curri-title{
+        text-align: center;
+    }
+    
+    
 }
