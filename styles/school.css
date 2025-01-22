@@ -183,8 +183,6 @@
 
 /* Story Related Styles */
 .story{
-    /* margin-left: 190px;
-    margin-right: 150px; */
     background-image: url(../assets/bg.png);
     background-color: rgba(254, 163, 1, 0.3);
 }
@@ -201,10 +199,18 @@
     justify-content: center;
 } 
 .cover-pic{
-    padding: 20px;
-    border-radius: 10px;
-    /* background-color: white; */
-} 
+    padding: 70px;
+         }
+.cover-title{
+    font-size: 22px;
+    font-weight: bold;
+    padding-left: 25px;
+}
+.cover-info{
+    font-size: 13px;
+    font-weight: 400;
+    padding-left: 25px;
+}
 .story-btn{
     background-color: black;
     border-radius: 8px;
