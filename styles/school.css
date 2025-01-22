@@ -279,6 +279,7 @@
 }
 
 /* Responsive Media Query  */
+
 @media screen and (max-width:576px) {
     .nav-title,
     .nav-links,
@@ -355,6 +356,11 @@
         margin-bottom: 100px;
         margin-left: -120px;
         margin-top: -20px;
+    }
+    .footer-contact{
+        margin-bottom: 200px;
+        margin-top: -100px;
+        margin-left: -95px;
     }
     
     
