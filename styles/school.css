@@ -291,15 +291,24 @@
         margin-bottom: 10px;
     }
     .nav-bar{
+        width: 310px;
         border-bottom: 2px solid orange;
-        margin: 0, auto;
+        margin-bottom: 30px;
+            }
+    .banner{
+        width: 80px;
+        flex-direction: column-reverse;
+        align-items: center;
+        text-align: center;   
+    } 
+    #banner-title{
+        margin-right: 160px;
+        margin-top: -60px;
     }
-    .header{
-        width: 380px;
+    #banner-para{
+        margin-right: 110px;
     }
-
-    /* .nav-bar{
-        flex-direction: column;
-
-    }  */
+    .banner-btn{
+        margin-right: 120px;
+    }
 }
