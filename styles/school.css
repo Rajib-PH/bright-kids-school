@@ -183,8 +183,8 @@
 
 /* Story Related Styles */
 .story{
-    margin-left: 190px;
-    margin-right: 300px;
+    /* margin-left: 190px;
+    margin-right: 150px; */
     background-image: url(../assets/bg.png);
     background-color: rgba(254, 163, 1, 0.3);
 }
@@ -192,17 +192,19 @@
     font-size: 30px;
     font-weight: bold;
     text-align: center;
+    padding-top: 45px;
     }
-/* .inside-pic{
+.inside-pic{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 15px;
-} */
-/* .cover-pic{
-    padding-right: 20px;
+    justify-content: center;
+} 
+.cover-pic{
+    padding: 20px;
     border-radius: 10px;
-} */
-    
+    /* background-color: white; */
+} 
 .story-btn{
     background-color: black;
     border-radius: 8px;
@@ -213,9 +215,9 @@
     color: aliceblue;
     padding: 9px 40px;  
     margin-left: 710px;
+    margin-bottom: 35px;
 }
     
-
 /* Footer Related Styles */
 .footer-bg{
     margin-top: 45px;
