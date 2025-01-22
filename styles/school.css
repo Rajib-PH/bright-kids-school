@@ -180,7 +180,7 @@
     color: aliceblue;
     padding: 9px 40px;  
     margin-left: 710px;
-    margin-top: 20px;
+    margin-top: 20px;   
 }
 
 /* Story Related Styles */
@@ -278,9 +278,10 @@
     margin-right: 200px;
 }
 
-/* Responsive Media Query */
-/* @media screen and (max-width:576px) {
-    .nav-bar, .nav-links{
+/* Responsive Media Query  */
+@media screen and (max-width:576px) {
+    /* .nav-bar{
         flex-direction: column;
-    } 
-} */
+
+    }  */
+}
