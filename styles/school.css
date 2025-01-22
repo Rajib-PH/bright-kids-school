@@ -280,6 +280,24 @@
 
 /* Responsive Media Query  */
 @media screen and (max-width:576px) {
+    .nav-title,
+    .nav-links,
+    .nav-item,
+    .nav-btn {
+        display: none;
+    }
+    #nav-image{
+        margin-right: 320px;
+        margin-bottom: 10px;
+    }
+    .nav-bar{
+        border-bottom: 2px solid orange;
+        margin: 0, auto;
+    }
+    .header{
+        width: 380px;
+    }
+
     /* .nav-bar{
         flex-direction: column;
 
