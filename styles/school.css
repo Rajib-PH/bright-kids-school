@@ -320,6 +320,24 @@
     #curri-title{
         text-align: center;
     }
+    .story{
+        background-image: url(../assets/bg.png);
+        background-color: white;
+          }
+    .cover-pic{
+        display: none;
+            }
+    .inside-pic {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 15px;  
+    }
+    .single-pic{
+        width: 190px;
+    }
+    .story-btn{
+        margin-left: 130px;
+    }
     
     
 }
